@@ -8,10 +8,10 @@ The central page is feed, which shows posts by all users. Posts can be filtered 
 DEMO : [Bit-Book](http://bit-book.djuretanovic.com/)
 
 ## Stack
-`Language:   HTML5, CSS3, JS(ES6+)<br>
-Library:  React, Bootstrap<br>
-Package Manager:  Yarn<br>
-Deployment: GitHub Pages`
+`Language:   HTML5, CSS3, JS(ES6+)` <br>
+`Library:  React, Bootstrap` <br>
+`Package Manager:  Yarn` <br>
+`Deployment: GitHub Pages`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
